@@ -20,7 +20,7 @@ Some of the common responsibility of gateway service are –
 
 
 Tech Stack and Runtime
-- Java 1.8 and Eclipse IDE as development environment
+- Java and intellij IDE as development environment
 - Spring cloud Zuul as Gateway proxy provider
 - Spring boot as application framework
 - Spring Rest for exposing microservice as REST
